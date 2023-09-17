@@ -44,26 +44,22 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+<a href="https://www.github.com/JagadeeshMurugan" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/JagadeeshMurugan?logo=github&style=for-the-badge&color=3382ed&labelColor=181824" /></a>
 
-<hr/>
+### Badges
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<b>My GitHub Stats</b>
 
-<br/><br/>
+<a href="http://www.github.com/JagadeeshMurugan"><img src="https://github-readme-stats.vercel.app/api?username=JagadeeshMurugan&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&show_icons=true" alt="JagadeeshMurugan's GitHub stats" /></a>
+
+<a href="http://www.github.com/JagadeeshMurugan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JagadeeshMurugan&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/JagadeeshMurugan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagadeeshMurugan&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+ <b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/JagadeeshMurugan/DATABASE-DESIGN-FACEBOOK" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JagadeeshMurugan&repo=DATABASE-DESIGN-FACEBOOK&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/JagadeeshMurugan/Html-Css-Js-Porfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JagadeeshMurugan&repo=Html-Css-Js-Porfolio&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 <hr/>
 
 <h3 align="center">
