@@ -11,13 +11,13 @@
  
  🔭 I’m currently studying in : **Amrita Vishwa Vidyapeetham**
  
- 🌱 I’m currently learning : **Java And Meachine Learning**
+ 🌱 I’m currently learning : **Snowflake**
 
- 💬 Ask me about : **MySql , Python and Data Structure**
+ 💬 Ask me about : **PostgreSQL and Python**
 
  📫 How to reach me: jagadeeshmurugaan@gmail.com
 
- ⚡ Fun fact : **Like to read Manga and play Guitar**
+ ⚡ Fun fact : **Like to play  basketball and read books**
  
  </div>
  
