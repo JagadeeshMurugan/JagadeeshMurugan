@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning : **Databricks**
 
- 💬 Ask me about : **PostgreSQL ,Spakr and Python**
+ 💬 Ask me about : **PostgreSQL ,Spark and Python**
 
  📫 How to reach me: jagadeeshmurugaan@gmail.com
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=python,Spark,PostgreSQL,Databricks,Azure" /><br>
    
 </div>
 
