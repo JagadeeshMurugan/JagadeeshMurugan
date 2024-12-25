@@ -3,7 +3,7 @@
     <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jagadeesh+Murugan;" />
 </h1>
 
-<h3 align="center">A passionate Data Scientist from India </h3>
+<h3 align="center">A passionate Data Engineer from India </h3>
 
 <br/>
 
@@ -11,13 +11,13 @@
  
  🔭 I’m currently studying in : **Amrita Vishwa Vidyapeetham**
  
- 🌱 I’m currently learning : **Snowflake**
+ 🌱 I’m currently learning : **Databricks**
 
- 💬 Ask me about : **PostgreSQL and Python**
+ 💬 Ask me about : **PostgreSQL ,Spakr and Python**
 
  📫 How to reach me: jagadeeshmurugaan@gmail.com
 
- ⚡ Fun fact : **Like to play  basketball and read books**
+ ⚡ Fun fact : **Like to Cook **
  
  </div>
  
